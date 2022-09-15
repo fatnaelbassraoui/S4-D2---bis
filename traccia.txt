@@ -1,0 +1,24 @@
+# SPOTIFY
+
+## 🎵Strivify
+
+Come allegato al compito trovi un template di una pagina simile a Spotify.
+
+L’obbiettivo dell’esercizio è di ottenere i dati dall’API menzionato sotto e utilizzarli nel template al posto della musica statica 
+presente nel template.
+
+– Riempi la pagina (nelle sezioni appropriata) con i dati da questo API. Puoi usare delle card di bootstrap. 
+Puoi cambiare le query se preferisci!
+
+`https://striveschool-api.herokuapp.com/api/deezer/search?q=pinguini%20tattici%20nucleari`
+
+`https://striveschool-api.herokuapp.com/api/deezer/search?q=maneskin`
+
+`https://striveschool-api.herokuapp.com/api/deezer/search?q=mahmood`
+
+Assicurati che l’API venga chiamato durante il caricamento della pagina.
+
+– Aggiungi un pulsante “Tutti gli album”. Quando premuto, dovrebbe mostrare in un modal tutti i titoli degli album presenti sulla pagina.
+– Aggiungi un pulsante “conta unici”. Quando premuto, stampa a console il numero di album UNICI nella pagina.
+
+Scarica qui il Template Spotify
